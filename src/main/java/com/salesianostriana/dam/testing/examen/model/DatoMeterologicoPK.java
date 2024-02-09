@@ -1,6 +1,7 @@
 package com.salesianostriana.dam.testing.examen.model;
 
 import jakarta.persistence.Embeddable;
+import jakarta.persistence.Table;
 import lombok.*;
 
 import java.time.LocalDate;
